@@ -31,4 +31,31 @@ public class Util {
 	
 	
 	
+//	 public static String ReadExcel(int numRow , int numCell) throws EncryptedDocumentException, IOException {
+//		 
+//		 FileInputStream file = new FileInputStream("C:\\Users\\Shubham\\eclipse-workspace\\Framework\\Excel\\Excel1.xlsx");
+//		 Sheet x = WorkbookFactory.create(file).getSheet("Sheet1");
+//		 return x.getRow(numRow).getCell(numCell).getStringCellValue();
+//		 
+//		 
+//	 }
+//	
+//	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }

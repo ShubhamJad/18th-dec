@@ -22,7 +22,7 @@ public class DashPage extends TestBase {
 	private WebElement userFullname;
 	
 	@FindBy(xpath="//div[@class='email']")
-	private WebElement userEmail;
+	private WebElement  userEmail;
 	
 	@FindBy(xpath="//button[@type=\"button\"]")
 	private WebElement getStartedButton ;

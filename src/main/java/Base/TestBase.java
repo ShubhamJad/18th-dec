@@ -26,7 +26,23 @@ public class TestBase {
 	    driver.get(p.getProperty("URL"));
 		driver.manage().window().maximize();
 	    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		
+	    
+	
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
 	
 	}
 }
