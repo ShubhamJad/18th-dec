@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-14T20:17:43 GMT-11:00" name="Default suite" finished-at="2022-04-14T20:19:20 GMT-11:00" duration-ms="97040">
+    <groups>
+    </groups>
+    <test started-at="2022-04-14T20:17:43 GMT-11:00" name="Default test" finished-at="2022-04-14T20:19:20 GMT-11:00" duration-ms="97040">
+      <class name="Testcases.DsahPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.DsahPageTest@1613674b]" started-at="2022-04-14T20:17:43 GMT-11:00" name="setup" finished-at="2022-04-14T20:18:09 GMT-11:00" duration-ms="26614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="buyShareTest()[pri:0, instance:Testcases.DsahPageTest@1613674b]" started-at="2022-04-14T20:18:09 GMT-11:00" name="buyShareTest" finished-at="2022-04-14T20:18:55 GMT-11:00" duration-ms="45515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyShareTest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:Testcases.DsahPageTest@1613674b]" started-at="2022-04-14T20:18:55 GMT-11:00" name="exit" finished-at="2022-04-14T20:18:55 GMT-11:00" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.DsahPageTest@1613674b]" started-at="2022-04-14T20:18:55 GMT-11:00" name="setup" finished-at="2022-04-14T20:19:15 GMT-11:00" duration-ms="19798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateOrderIconTest()[pri:0, instance:Testcases.DsahPageTest@1613674b]" started-at="2022-04-14T20:19:15 GMT-11:00" name="validateOrderIconTest" finished-at="2022-04-14T20:19:18 GMT-11:00" duration-ms="2686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateOrderIconTest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:Testcases.DsahPageTest@1613674b]" started-at="2022-04-14T20:19:18 GMT-11:00" name="exit" finished-at="2022-04-14T20:19:20 GMT-11:00" duration-ms="2065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- Testcases.DsahPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
